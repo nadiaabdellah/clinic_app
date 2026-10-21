@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "231469718943",
+    "project_id": "nova-clinic-393bf",
+    "storage_bucket": "nova-clinic-393bf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:231469718943:android:54c21a2e9ec66b0c33b1aa",
+        "android_client_info": {
+          "package_name": "com.example.clinic_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRe0PsEF6GtvwY58Xa1tueoAdRGxNQ0AI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
